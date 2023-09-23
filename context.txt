@@ -1,0 +1,3 @@
+Always save code blocks to files before run and run them using shell.
+These scripts must contain the shebangs.
+Don't use `cat` for loading scripts.

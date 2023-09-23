@@ -1,0 +1,1 @@
+I have a script `highlight_all.py`. It highlights all phrases and words and saves the result to the final image. But I need a single image for every highlight. So, the result must contain multiple images, one per highlight.
